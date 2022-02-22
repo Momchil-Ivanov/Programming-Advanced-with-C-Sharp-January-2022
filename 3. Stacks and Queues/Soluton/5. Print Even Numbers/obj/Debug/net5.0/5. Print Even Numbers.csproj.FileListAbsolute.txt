@@ -1,0 +1,15 @@
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.exe
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.deps.json
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.runtimeconfig.json
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.runtimeconfig.dev.json
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.dll
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\5. Print Even Numbers\bin\Debug\net5.0\ref\5. Print Even Numbers.dll
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.pdb
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.AssemblyInfo.cs
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.dll
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\5. Print Even Numbers\obj\Debug\net5.0\ref\5. Print Even Numbers.dll
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.pdb
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.genruntimeconfig.cache

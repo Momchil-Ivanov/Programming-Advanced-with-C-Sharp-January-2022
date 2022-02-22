@@ -1,0 +1,16 @@
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.exe
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.deps.json
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.runtimeconfig.json
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.runtimeconfig.dev.json
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.dll
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\7. Hot Potato\bin\Debug\net5.0\ref\7. Hot Potato.dll
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\7. Hot Potato\bin\Debug\net5.0\7. Hot Potato.pdb
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.csproj.AssemblyReference.cache
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.AssemblyInfoInputs.cache
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.AssemblyInfo.cs
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.dll
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\7. Hot Potato\obj\Debug\net5.0\ref\7. Hot Potato.dll
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.pdb
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\7. Hot Potato\obj\Debug\net5.0\7. Hot Potato.genruntimeconfig.cache

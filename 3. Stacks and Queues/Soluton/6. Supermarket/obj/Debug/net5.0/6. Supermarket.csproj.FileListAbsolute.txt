@@ -1,0 +1,15 @@
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\6. Supermarket\bin\Debug\net5.0\6. Supermarket.exe
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\6. Supermarket\bin\Debug\net5.0\6. Supermarket.deps.json
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\6. Supermarket\bin\Debug\net5.0\6. Supermarket.runtimeconfig.json
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\6. Supermarket\bin\Debug\net5.0\6. Supermarket.runtimeconfig.dev.json
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\6. Supermarket\bin\Debug\net5.0\6. Supermarket.dll
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\6. Supermarket\bin\Debug\net5.0\ref\6. Supermarket.dll
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\6. Supermarket\bin\Debug\net5.0\6. Supermarket.pdb
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\6. Supermarket\obj\Debug\net5.0\6. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\6. Supermarket\obj\Debug\net5.0\6. Supermarket.AssemblyInfoInputs.cache
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\6. Supermarket\obj\Debug\net5.0\6. Supermarket.AssemblyInfo.cs
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\6. Supermarket\obj\Debug\net5.0\6. Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\6. Supermarket\obj\Debug\net5.0\6. Supermarket.dll
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\6. Supermarket\obj\Debug\net5.0\ref\6. Supermarket.dll
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\6. Supermarket\obj\Debug\net5.0\6. Supermarket.pdb
+C:\Users\Momchil\Desktop\C# ADVANCED\3. Stacks and Queues\Stacks and Queues\6. Supermarket\obj\Debug\net5.0\6. Supermarket.genruntimeconfig.cache
